@@ -1,58 +1,56 @@
-# Game Name
+# Spanish Shopping Expedition
 
 ## Elevator Pitch
 
-*A one sentence pitch for your game. Pretend that your were pitching your game to a executive going to the elevator. You have less than 60 Seconds. Check [this resource](http://www.gameacademy.com/perfecting-indie-games-elevator-pitch/) for more information.*
+
+Your lovely, Spanish grandmother gave you a shopping list and you need to retrieve the items - the only problem is the list in Spanish!
 
 ## Influences (Brief)
 
-- *Influence #1*:
-  - Medium: *(Television, Games, Literature, Movies, etc.)*
-  - Explanation: *In one paragraph or less, explain why this is an influence.*
-- *Influence #2*:
-  - Medium: *(Television, Games, Literature, Movies, etc.)*
-  - Explanation: *In one paragraph or less, explain why this is an influence.*
-- *Influence #3*:
-  - Medium: *(Television, Games, Literature, Movies, etc.)*
-  - Explanation: *In one paragraph or less, explain why this is an influence.*
+- Index the Cat:
+  - Medium: Online Game
+  - Explanation: Index the Cat has small levels that increase in difficulty, which this game will also have.
+- Papa’s Pizzeria:
+  - Medium: Online Game
+  - Explanation: In Papa’s Pizzeria you are tasked with an order and you need to make a pizza that fulfills that order. Similarly, in this game you need to fulfill your grandmother’s shopping list.
+- Senor Greenberg:
+  - Medium: Teacher
+  - Explanation: Senor Greenberg was very engaging in his teaching style and encouraged us to apply our knowledge to the real-world. This game is applying your knowledge of Spanish to a real-world situation.
 
 ## Core Gameplay Mechanics (Brief)
 
-*Give a very high-level description of any core gameplay mechanics*
-
-- *Gameplay Mechanic #1*
-- *Gameplay Mechanic #2*
-- *Gameplay Mechanic #3*
-- *Gameplay Mechanic #4*
+- Drag the correct item into the shopping basket.
+- If the item is correct, it is crossed out on the list and you gain grandkid points.
+- If the item is incorrect, a message will appear stating the name of the object that was attempted.
+- Click on the location on the map to enter that store.
+- Once all items on the list are collected, the player trades their grandkid points for cookies and then progresses to their next list.
+- After you complete all the lists, you are reunited with your family for the big party you’re planning.
 
 # Learning Aspects
 
 ## Learning Domains
 
-*Briefly list any and all of the disciplines and learning domains for this subject.*
+Basic Spanish vocabulary
 
 ## Target Audiences
 
-*Who are your learners?*
+Beginning Spanish students who want to practice basic vocabulary. Ages could range widely, but anyone who is a beginner should find it helpful.
 
 ## Target Contexts
 
-*Describe what kinds of formal and informal learning contexts this will be used in (e.g., courses, k-12 computer labs during free time).*
+- This game can be utilized as free practice and independent study for a beginner Spanish class.
+- Additionally, this could be used to review essential vocab before traveling to Spanish speaking countries.
 
 ## Learning Objectives
 
-*Remember, Learning Objectives are NOT simply topics. They are statements of observable behavior that a learner can do after the learning experience. You cannot observe someone "understanding" or "knowing" something.*
-
-- *Short Name*: *Formal Learning Objective #1*
-- *Short Name*: *Formal Learning Objective #2*
-- *Short Name*: *Formal Learning Objective #3*
+- By the end of the lesson, players will be able to identify the Spanish names for common household articles such as clothes and food.
+- By the end of the lesson, players will be able to select an appropriate object given a description in Spanish.
+- By the end of the lesson, players will be able to translate basic Spanish names for common household items into English.
 
 ## Prerequisite Knowledge
 
-*What do they need to know prior to trying this game?*
-
-- *Prerequisite Learning Objective #1*
-- *Prerequisite Learning Objective #2*
+- Prior to the game, players need to know how to read basic words in Spanish and English.
+- Prior to the game, players need to know which store common objects could be found in.
 
 ## Assessment Measures
 
@@ -179,3 +177,5 @@
 
 * Template created by Austin Cory Bart <acbart@udel.edu>, Mark Sheriff, Alec Markarian, and Benjamin Stanley.
 * Version 0.0.3
+
+
