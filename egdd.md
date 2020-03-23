@@ -143,10 +143,7 @@ There are messages that appear in accordance with the player’s actions informi
 
 ## Storyboarding
 
-This is the initial map screen that will come up and what will be seen whenever the user needs to change stores.
-
-
-This is what the screen will look like when in a store. The checklist is on the left, the shelves with the items are in the center with the basket at the bottom, and there is a small icon in the top right corner that can be used to return to the map.
+- See pictures on Github for storyboards 
 
 # Assets Needed
 
